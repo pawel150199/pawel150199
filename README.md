@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pawel150199
-- :mortar_board: I'm study at Wrocław University of Technology at  the faculty of Electronics
+- :mortar_board: I study at Wrocław University of Technology at  the faculty of Electronics
 - :computer: I’m interested in Computer Networks, Operating Systems, Wireless systems
 - :pencil: I’m currently learning Python
 - 📫 My email: pawel.polski99@gmail.com
