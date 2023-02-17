@@ -1,4 +1,4 @@
-#👋 Hi, I’m Paweł
+# 👋 Hi, I’m Paweł
 ## Technologies
 ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -26,9 +26,10 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Currently I am working as Software Developer (mostly focusing on DevOps technology) in NOKIA. Now i am focusing on DevOps technology and improving my skills related to this area. I love automate boring thing.
-## :mortar_board: I study at Wrocław University of Technology at the faculty of Computer Science and Telecommunication
-## :computer: I’m interested in Computer Networks, Operating Systems, DevOps technologies, programming, 
-## 📫 My email: pawel.polski99@gmail.com
+## Something about me
+Currently I am working as Software Developer (mostly focusing on DevOps technology) in NOKIA and a first year Master degree student at Wrocław University of Science and Technology at the facuty of Computer Science and Telecommunication. Now i am focusing on DevOps technologies and improving my skills related to this area. I love automate boring things. In future I would like work as DevOps Engineer.
+
+## Social media
+*  My email: pawel.polski99@gmail.com
 
 
