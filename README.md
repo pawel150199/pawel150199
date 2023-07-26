@@ -27,7 +27,7 @@
 Currently I am working as Software Developer (mainly focusing on DevOps technology) in NOKIA and a first year master degree student at Wrocław University of Science and Technology at the facuty of Computer Science and Telecommunication. Now i am focusing on DevOps technologies and developing my skills related to this area. I love automate boring things. In future I would like work as DevOps Engineer.
 
 ## 🔥 My Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pawel150199)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pawel150199&theme=dark)
 ## Social media
 *  My email: pawel.polski99@gmail.com
 
