@@ -32,7 +32,7 @@ Currently I am working as Software Developer (mainly focusing on DevOps technolo
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawel150199&theme=dark&show_icons=true&hide_border=true" alt="pawel150199 GitHub Stats">
 </div>
 
-## Social media
+## 🔗 Links
 *  My email: pawel.polski99@gmail.com
 
 
