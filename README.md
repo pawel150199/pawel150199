@@ -37,9 +37,7 @@ Backend / DevOps-leaning engineer who enjoys clean automation, reproducible infr
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawel150199&theme=dark&hide_border=true" />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pawel150199&theme=dark&hide_border=true)
 
 ---
 
