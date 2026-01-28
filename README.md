@@ -37,8 +37,9 @@ Backend / DevOps-leaning engineer who enjoys clean automation, reproducible infr
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pawel150199&theme=dark&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pawel150199&show_icons=true&theme=dark&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawel150199&layout=compact&theme=dark&hide_border=true)
 ---
 
 ## 🚀 Interests
