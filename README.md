@@ -6,51 +6,26 @@ Backend / DevOps-leaning engineer who enjoys clean automation, reproducible infr
 
 ## 🛠️ Tech Stack
 
-**🧑‍💻 Languages & Frameworks**  
-- 🐍 Python
-- 🦫 Go 
-- ⚡ FastAPI  
-- ☕ JVM Applications (Java / Kotlin)  
-- 🧩 Jinja  
-- 🖥️ Shell / Bash  
+**Languages**  
+🐍 Python · 🦫 Go · ☕ Java/Kotlin · 🖥️ Bash
 
-**⚙️ DevOps & Infrastructure**  
-- 🐳 Docker  
-- ☸️ Kubernetes  
-- 🐧 Linux  
-- 🤖 Ansible  
-- 🌐 Nginx
-- 🚀 GitHub Actions  
+**Frameworks**  
+⚡ FastAPI · 🧩 Jinja
 
-**☁️ Cloud (AWS)**  
-- ☸️ EKS  
-- 🧱 ECS  
-- 🖥️ EC2  
-- 🔐 IAM  
-- 📦 S3  
-- 🌐 VPC  
-- 🔁 CodePipeline  
-- 🏗️ CodeBuild  
+**DevOps / Infra**  
+🐳 Docker · ☸️ Kubernetes · 🤖 Ansible · 🐧 Linux · 🌐 Nginx · 🚀 GitHub Actions
 
-**🗄️ Databases & Messaging**  
-- 🐘 PostgreSQL  
-- 🦭 MariaDB  
-- 🧠 Redis  
-- 📨 Apache Kafka 
+**AWS**  
+☸️ EKS · 🧱 ECS · 🖥️ EC2 · 🔐 IAM · 📦 S3 · 🌐 VPC · 🔁 CodePipeline · 🏗️ CodeBuild
 
-**📊 Data & ML**  
-- 🔢 NumPy  
-- 📈 Matplotlib  
-- 🤖 scikit-learn  
+**Datastores & Messaging**  
+🐘 PostgreSQL · 🦭 MariaDB · 🧠 Redis · 📨 Kafka
 
-**🧰 Tooling & Docs**  
-- 🌱 Git  
-- 🐙 GitHub / 🦊 GitLab  
-- 📜 Swagger / OpenAPI  
-- 📘 Confluence  
-- 🧭 Jira  
-- 📐 LaTeX  
-- 🛠️ Gradle   
+**Data / ML**  
+🔢 NumPy · 📈 Matplotlib · 🤖 scikit-learn
+
+**Tooling**  
+🌱 Git · 🐙 GitHub / 🦊 GitLab · 📜 OpenAPI · 📘 Confluence · 🧭 Jira · 🛠️ Gradle · 📐 LaTeX
 
 ---
 
