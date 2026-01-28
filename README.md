@@ -7,22 +7,22 @@ Backend / DevOps-leaning engineer who enjoys clean automation, reproducible infr
 ## 🛠️ Tech Stack
 
 **Languages / Frameworks**  
-🐍 Python | 🦫 Go | ☕ Java/Kotlin | 🖥️ Bash | ⚡ FastAPI | 🧩 Jinja
+🐍 Python 🦫 Go ☕ Java/Kotlin 🖥️ Bash ⚡ FastAPI 🧩 Jinja
 
 **DevOps / Infra**  
-🐳 Docker · ☸️ Kubernetes · 🤖 Ansible · 🐧 Linux · 🌐 Nginx · 🚀 GitHub Actions
+🐳 Docker ☸️ Kubernetes 🤖 Ansible 🐧 Linux 🌐 Nginx 🚀 GitHub Actions
 
 **Cloud (AWS)**  
-☸️ EKS · 🧱 ECS · 🖥️ EC2 · 🔐 IAM · 📦 S3 · 🌐 VPC · 🔁 CodePipeline · 🏗️ CodeBuild
+☸️ EKS 🧱 ECS 🖥️ EC2 🔐 IAM 📦 S3 🌐 VPC 🔁 CodePipeline 🏗️ CodeBuild
 
 **Databases / Messaging**  
-🐘 PostgreSQL · 🦭 MariaDB · 🧠 Redis · 📨 Apache Kafka
+🐘 PostgreSQL 🦭 MariaDB 🧠 Redis 📨 Apache Kafka
 
 **Data / ML**  
-🔢 NumPy · 📈 Matplotlib · 🤖 scikit-learn
+🔢 NumPy 📈 Matplotlib 🤖 scikit-learn
 
 **Tooling / Docs**  
-🌱 Git · 🐙 GitHub / 🦊 GitLab · 📜 Swagger / OpenAPI · 📘 Confluence · 🧭 Jira · 🛠️ Gradle · 📐 LaTeX
+🌱 Git 🐙 GitHub / 🦊 GitLab 📜 Swagger / OpenAPI 📘 Confluence 🧭 Jira 🛠️ Gradle 📐 LaTeX
 
 ---
 
