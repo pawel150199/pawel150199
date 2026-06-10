@@ -1,6 +1,6 @@
 # Hi, I’m Paweł 👋
 
-Backend / DevOps-leaning engineer who enjoys clean automation, reproducible infrastructure, and Python that doesn’t bite back.
+DevOps Engineer who enjoys clean automation, reproducible infrastructure, and Python that doesn’t bite back.
 
 ---
 
